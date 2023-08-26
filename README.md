@@ -1,4 +1,4 @@
-# 2022DEVF3_XTR_CarShowroomVR_Apr28/22
+# XTerra_CarShowroomVR_Apr28/22
 
 ![IMG_6225](https://github.com/KateBiel/2022DEVF3_XTR_PairProgrammingDRD/assets/103016794/b2487035-99b5-4c8b-8437-c423cc0e257d)
 
@@ -131,7 +131,7 @@ I don't plan to continue developing this project or address all the points I've 
 </div>
 
 
-<div style="border-top: 1.4px solid #3a3c43; margin-top: 20px;"></div>
+<div style="border-top: 1.4px solid #3a3c43; margin-top: 50px;"></div>
 
 # 🤟 Featured Repositories
 
